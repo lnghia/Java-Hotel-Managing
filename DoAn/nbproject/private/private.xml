@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/DAL/DAL_TYLEPHUTHU.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>65</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC3Form.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/DoiThamSo.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/LoaiKhachHangDAL.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/ThemKH.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_CAPNHATPHONG.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC8.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/connect.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_YC2.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_LOAIPHONG.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_YC1.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/BUS/BUS_CAPNHATPHONG.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DichVuDAL.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/MainPage.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC4.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/BUS/BUS_THONGKE1.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC9Frame.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/DoiLoaiKhach.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/CTSuDungDichVuDAL.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/MainPage2.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_THONGKE1.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/BUS/BUS_YC2.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_DOANHTHU.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/PhieuThuePhongDAL.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DTO/DTO_LoaiPhong.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_YC7.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DTO/KhachHangDTO.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC5Frame.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/DoiDichVu.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/ThongKeTheoThoiGian.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC2Form.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/DAL_ThemKH.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/NhanVien.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DTO/DTO_KhachHang.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/CapNhatPhong.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/DoiLoaiPhong.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/Untitled-1.png</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/YC7FRAME.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/BUS/BUS_YC7.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/DAL/YC4DAL.java</file>
+            <file>file:/C:/Users/SpingGr4ss/Documents/NetBeansProjects/DoAn/src/GUI/LogInFrame.java</file>
+        </group>
+    </open-files>
+</project-private>

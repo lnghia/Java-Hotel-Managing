@@ -1,0 +1,1 @@
+Vui lòng đặt file Database QuanLiKhachSan.db tại đường dẫn C:/sqlite/db/
